@@ -1,2 +1,3 @@
 # PRSHARP
-C# renderer
+
+C# Renderer based on OpenTK
